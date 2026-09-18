@@ -1,0 +1,7 @@
+{
+  "name": "ToolTutors",
+  "description": "Simple Tech Guides for Everyone - Beginner-friendly tutorials for Android, AI, and productivity tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
